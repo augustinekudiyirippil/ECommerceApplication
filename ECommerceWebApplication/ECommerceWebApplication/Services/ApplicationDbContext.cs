@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ECommerceWebApplication.Models;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
 namespace ECommerceWebApplication.Services
@@ -12,5 +13,13 @@ namespace ECommerceWebApplication.Services
 
 
         }
+
+
+
+        public DbSet<Product> Products { get; set; }
+
+
+
+
     }
 }
