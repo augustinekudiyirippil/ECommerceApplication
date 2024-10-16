@@ -5,6 +5,42 @@
       "PackagePath": "staticwebassets\\ECommerceWebApplication.bundle.scp.css"
     },
     {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Acer1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Acer1.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Apple1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Apple1.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Azus1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Azus1.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Azus2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Azus2.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\BlackView1.jpg",
+      "PackagePath": "staticwebassets\\Products\\BlackView1.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Headset1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Headset1.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Headset2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Headset2.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Samsung1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Samsung1.jpg"
+    },
+    {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\SmartWatch1.jpg",
+      "PackagePath": "staticwebassets\\Products\\SmartWatch1.jpg"
+    },
+    {
       "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
