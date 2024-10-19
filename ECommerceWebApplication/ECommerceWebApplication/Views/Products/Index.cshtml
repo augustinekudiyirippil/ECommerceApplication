@@ -3,8 +3,9 @@
 
 @model List<Product>
 @{
+    }
 
-}
+
 
     <h2 class="text-center mb-5">List of Products</h2>
 
@@ -39,7 +40,7 @@
 
         </thead>
         <tbody>
-            @foreach(var product in Model)
+            @foreach (var product in Model)
             {
             
              <tr>
@@ -47,14 +48,14 @@
                 <td>@product.Name</td>
                 <td>@product.Brand</td>
                 <td>@product.Category</td>
-                <td>@(product.Price)$</td>
+                <td>£@(product.Price)</td>
                 <td> <img src="~/Products/@product.ImageFileName" width="100"></td>
-                <td>@product.CreatedAt.ToString("dd/mm/yyyy")</td>
+                <td>@product.CreatedAt</td>
                 <td style="white-space:nowrap">
                     <a class="btn btn-primary btn-sm" asp-controller="Products"  asp-action="Edit"
                     asp-route-id="@product.Id"> Edit</a>
                     <a class="btn btn-primary btn-sm" asp-controller="Products" asp-action="Delete"
-                       asp-route-id="@product.Id"> Delete</a>
+                    asp-route-id="@product.Id"> Delete</a>
 
                 </td>
 
@@ -64,3 +65,5 @@
         </tbody>
 
     </table>
+
+ 
