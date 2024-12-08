@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ECommerceWebApplication.bundle.scp.css"
     },
     {
+      "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\20241208122226167.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241208122226167.jpg"
+    },
+    {
       "Id": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Acer1.jpg",
       "PackagePath": "staticwebassets\\Products\\Acer1.jpg"
     },

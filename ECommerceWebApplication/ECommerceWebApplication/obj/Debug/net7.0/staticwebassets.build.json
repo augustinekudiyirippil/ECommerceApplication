@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6ov4POyynjkT3TxMd1fHWd9OWzBxeoWe1IOyYGgHawQ=",
+  "Hash": "xQ3ik8VlSB/73W+uFA1x50E4xUcnOsEpDlC1CM4Ivf4=",
   "Source": "ECommerceWebApplication",
   "BasePath": "_content/ECommerceWebApplication",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\20241208122226167.jpg",
+      "SourceId": "ECommerceWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\",
+      "BasePath": "_content/ECommerceWebApplication",
+      "RelativePath": "Products/20241208122226167.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Products\\20241208122226167.jpg"
     },
     {
       "Identity": "D:\\Augustine\\E-Commerce web application\\ECommerceWebApplication\\ECommerceWebApplication\\wwwroot\\Products\\Acer1.jpg",

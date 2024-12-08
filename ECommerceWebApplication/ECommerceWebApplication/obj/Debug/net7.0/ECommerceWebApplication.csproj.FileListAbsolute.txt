@@ -8,6 +8,7 @@ D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebAppl
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\ECommerceWebApplication.pdb
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Azure.Core.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Castle.Core.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Humanizer.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -28,6 +29,7 @@ D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebAppl
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\Moq.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\System.CodeDom.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 D:\Augustine\E-Commerce web application\ECommerceWebApplication\ECommerceWebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
